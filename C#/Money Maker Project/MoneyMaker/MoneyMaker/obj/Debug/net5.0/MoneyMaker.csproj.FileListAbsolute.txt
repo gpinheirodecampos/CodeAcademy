@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.exe
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.deps.json
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.runtimeconfig.json
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.runtimeconfig.dev.json
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.dll
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\ref\MoneyMaker.dll
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\bin\Debug\net5.0\MoneyMaker.pdb
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.AssemblyInfo.cs
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.dll
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\ref\MoneyMaker.dll
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.pdb
+C:\Users\gabri\Documents\CodeAcademy\C#\Money Maker Project\MoneyMaker\MoneyMaker\obj\Debug\net5.0\MoneyMaker.genruntimeconfig.cache
