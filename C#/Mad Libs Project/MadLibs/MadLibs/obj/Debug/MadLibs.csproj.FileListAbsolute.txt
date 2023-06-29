@@ -1,0 +1,7 @@
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\gabri\Documents\CodeAcademy\C#\Mad Libs Project\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
