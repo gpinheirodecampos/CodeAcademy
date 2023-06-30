@@ -26,7 +26,7 @@ namespace ArchitectArithmetic
 
         static string RecebeMonumento()
         {
-            Console.WriteLine("Com qual monumento você gostaria de trabalhar?\n- Taj Mahal\n- Grande Mesquita de Meca\n- Panteao\n");
+            Console.WriteLine("Com qual monumento você gostaria de trabalhar?\n- Taj Mahal\n- Grande Mesquita de Meca\n- Teotihuacan\n");
             Console.WriteLine("Digite o nome:");
 
             string aux = Console.ReadLine();
@@ -50,7 +50,7 @@ namespace ArchitectArithmetic
             return custoTotal;
         }
 
-        static double Panteao()
+        static double Teotihuacan()
         {
             const double precoMaterial = 4.87;
             double areaTotal = AreaRetangulo(1500, 2500) + (AreaCirculo(375) / 2) + AreaTriangulo(750, 500);
@@ -71,7 +71,7 @@ namespace ArchitectArithmetic
                     Console.WriteLine($"O custo do material necessario para a construcao deste monumento é: ${Math.Round(GrandeMesquita(), 2)} dólares");
                     break;
                 case "Panteao":
-                    Console.WriteLine($"O custo do material necessario para a construcao deste monumento é: ${Math.Round(Panteao(), 2)} dólares");
+                    Console.WriteLine($"O custo do material necessario para a construcao deste monumento é: ${Math.Round(Teotihuacan(), 2)} dólares");
                     break;
                 default:
                     Console.WriteLine("Opcao invalida!");
