@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.exe
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.deps.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.runtimeconfig.dev.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\ref\Architect Arithmetic.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\bin\Debug\net5.0\Architect Arithmetic.pdb
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\ref\Architect Arithmetic.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.pdb
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Architect Arithmetic Project\Architect Arithmetic\Architect Arithmetic\obj\Debug\net5.0\Architect Arithmetic.genruntimeconfig.cache
