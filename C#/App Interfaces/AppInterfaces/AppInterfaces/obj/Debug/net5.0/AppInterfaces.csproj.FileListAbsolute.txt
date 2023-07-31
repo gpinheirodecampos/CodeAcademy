@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\AppInterfaces.exe
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\AppInterfaces.deps.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\AppInterfaces.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\AppInterfaces.runtimeconfig.dev.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\AppInterfaces.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\ref\AppInterfaces.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\bin\Debug\net5.0\AppInterfaces.pdb
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\ref\AppInterfaces.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.pdb
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\App Interfaces\AppInterfaces\AppInterfaces\obj\Debug\net5.0\AppInterfaces.genruntimeconfig.cache
