@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\GuildaMagica.exe
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\GuildaMagica.deps.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\GuildaMagica.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\GuildaMagica.runtimeconfig.dev.json
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\GuildaMagica.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\ref\GuildaMagica.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\bin\Debug\net5.0\GuildaMagica.pdb
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\ref\GuildaMagica.dll
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.pdb
+C:\Users\gabri\Documents\GitHub\CodeAcademyRepositorio\C#\Guilda Magica\GuildaMagica\GuildaMagica\obj\Debug\net5.0\GuildaMagica.genruntimeconfig.cache
